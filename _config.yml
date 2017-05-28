@@ -1,23 +1,29 @@
 url: "http://leet.cloud"
 #logo: "/img/alex.png"
 formspreeemail: "info@leet.cloud"
-mainbackgroundimage: "img/Clouds-mac-hd3.jpg"
-mainbackgroundimage2: "img/Clouds-mac-hd3.jpg"
+mainbackgroundimage: "img/Clouds-mac.jpg"
+
 maincolor: "#10549b"
 secondarydarkcolor: "#233140"
 secondarylightcolor: "white"
 dropdowncolor: "#11866f"
 
+socialborder: "border:2px solid #fff"
+socialcolor: "color:#10549b"
+socialhover: "color: #10549b;background:#fff;border:2px solid #fff"
+
 headertitle: "Alex Simpson"
 title: Alex Simpson
 blurb: "Virtualisation Engineer turned aspiring cloud all rounder"
 CV: "Alex-simpson-CV.odt"
+
+
 portfolioheading: "My Blogs"
 portfoliofadecolor: "#1f62a8" 
 #these images should be 900x650px
-portfolioimg1: "/img/portfolio/cloud-portfolio2.png"
-portfolioimg2: "/img/portfolio/LittleKiwiBus_Logo_scaled.png"
-portfolioimg3: 
+portfolioimg1: "/img/portfolio/cloud-portfolios3.png"
+portfolioimg2: "/img/portfolio/LittleKiwiBus_Logo_scaled2.png"
+
 
 aboutcolumn1: "Has been working in I.T for years 6 and is currently branching out into all things public cloud."
 aboutcolumn2: "At the same time his partner and him are planning to convert an old american schoolbus into their dream tinyhouse/housebus."
