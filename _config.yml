@@ -27,6 +27,8 @@ certs:
     imagepath: "/img/cert-badges/VMW-LGO-CERT-PRO-6-DATA-CTR-VIRT.png"
   - name: "AWS-DV-A"
     imagepath: "/img/cert-badges/developer-badge.png"
+  - name: "AWS-SO-A"
+    imagepath: "/img/cert-badges/sys-ops-badge.png" 
 
 address1: Brisbane
 address2: Australia
