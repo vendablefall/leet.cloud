@@ -9,7 +9,7 @@ dropdowncolor: "#11866f"
 
 headertitle: "Alex Simpson"
 title: Alex Simpson
-blurb: "Virtualisation Engineer turned aspiring cloud all rounder"
+blurb: "Virtualisation Engineer's Journey into the Public Cloud"
 CV: "Alex-simpson-CV.odt"
 portfolioheading: "My Blogs"
 portfoliofadecolor: "#189cd7" 
@@ -18,8 +18,8 @@ portfolioimg1: "/img/portfolio/cloud-portfolio2.png"
 portfolioimg2: "/img/portfolio/LittleKiwiBus_Logo_scaled.png"
 portfolioimg3: 
 
-aboutcolumn1: "I have been working in I.T for years 6 and am currently branching out into all things public cloud."
-aboutcolumn2: "At the same time I am also planning on converting an old american schoolbus into our dream tinyhouse/housebus"
+aboutcolumn1: "Alex has been working in the I.T industry for over 6 year and is currently branching out into all things public cloud."
+aboutcolumn2: "At the same time Alex is planning on converting an old American schoolbus his dream tinyhouse/housebus. Follow his journey below!"
 certs:
   - name: "VCP6-DCV"
     imagepath: "/img/cert-badges/Telerik.Web.UI.WebResource.png"
