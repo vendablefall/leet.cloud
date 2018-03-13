@@ -18,8 +18,8 @@ portfolioimg1: "/img/portfolio/cloud-portfolio2.png"
 portfolioimg2: "/img/portfolio/LittleKiwiBus_Logo_scaled.png"
 portfolioimg3: 
 
-aboutcolumn1: "With over 7 years industry experiance, Alex is a passionate automation and public cloud expert who brings innovative and creative solutions to highly technical problems."
-aboutcolumn2: "At the same time Alex and his partner Bridget are planning on converting an American schoolbus into their dream tinyhouse/housebus. Follow their journey below!"
+aboutcolumn1: "With over 7 years industry experience, Alex is a passionate automation and public cloud expert who brings innovative and creative solutions to highly technical problems."
+aboutcolumn2: "At the same time Alex and his partner Bridget are planning on converting an American school bus into their dream tiny house/house-bus. Follow their journey below!"
 certs:
   - name: "VCP6-DCV"
     imagepath: "/img/cert-badges/Telerik.Web.UI.WebResource.png"
@@ -29,7 +29,9 @@ certs:
     imagepath: "/img/cert-badges/developer-badge.png"
   - name: "AWS-SO-A"
     imagepath: "/img/cert-badges/sys-ops-badge.png" 
-
+  - name: "AWS-AN-S"
+    imagepath: "/img/cert-badges/advanced-networking-badge.png" 
+    
 address1: Brisbane
 address2: Australia
 
