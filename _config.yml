@@ -33,6 +33,8 @@ certs:
     imagepath: "/img/cert-badges/advanced-networking-badge.png" 
   - name: "AWS-DO-P"
     imagepath: "/img/cert-badges/devops-pro-badge.png"
+  - name: "AWS-SA-P"
+    imagepath: "/img/cert-badges/architect-pro-badge.png"    
     
 address1: Brisbane
 address2: Australia
