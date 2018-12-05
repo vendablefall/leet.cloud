@@ -11,15 +11,15 @@ headertitle: "Alex Simpson"
 title: Alex Simpson
 blurb: "Virtualisation Engineer's Journey into the Public Cloud"
 CV: "Alex-simpson-CV.pdf"
-portfolioheading: "My Blogs"
-portfolioheading2: "My Projects"
 portfoliofadecolor: "#189cd7" 
 #these images should be 900x650px
-portfolioimg1: "/img/portfolio/cloud-portfolio2.png"
-portfolioimg2: "/img/portfolio/LittleKiwiBus_Logo_scaled.png"
-portfolioimg3: "/img/portfolio/puppie-900-650.png"
 
+blogheading: "My Blogs"
+blogimg1: "/img/portfolio/cloud-portfolio2.png"
+blogimg2: "/img/portfolio/LittleKiwiBus_Logo_scaled.png"
 
+projectheading: "My Projects"
+projectimg1: "/img/portfolio/puppie-900-650.png"
 
 aboutcolumn1: "With over 8 years industry experience, Alex is a passionate automation and public cloud expert who brings innovative and creative solutions to highly technical problems."
 aboutcolumn2: "At the same time Alex and his partner Bridget are planning on converting an American school bus into their dream tiny house/house-bus. Follow their journey below!"
