@@ -9,7 +9,7 @@ dropdowncolor: "#11866f"
 
 headertitle: "Alex Simpson"
 title: Alex Simpson
-blurb: "Virtualisation Engineer's Journey into the Public Cloud"
+blurb: "AWS cloud consultant, serverless fanatic and housebus enthusiast!"
 CV: "Alex-simpson-CV.pdf"
 portfoliofadecolor: "#189cd7" 
 #these images should be 900x650px
@@ -20,9 +20,10 @@ blogimg2: "/img/portfolio/LittleKiwiBus_Logo_scaled.png"
 
 projectheading: "My Projects"
 projectimg1: "/img/portfolio/puppie-900-650.png"
+# projectimg2: "/img/portfolio/bridgedoctor.png"
 
 aboutcolumn1: "With over 8 years industry experience, Alex is a passionate automation and public cloud expert who brings innovative and creative solutions to highly technical problems."
-aboutcolumn2: "At the same time Alex and his partner Bridget are planning on converting an American school bus into their dream tiny house/house-bus. Follow their journey below!"
+aboutcolumn2: "At the same time Alex and his partner Bridget are planning on converting a 1979 Ford R1114 bus into their dream tiny house/house-bus. Follow their journey below!"
 certs:
   - name: "VCP6-DCV"
     imagepath: "/img/cert-badges/Telerik.Web.UI.WebResource.png"
