@@ -39,6 +39,8 @@ certs:
     imagepath: "/img/cert-badges/devops-pro-badge.png"
   - name: "AWS-SA-P"
     imagepath: "/img/cert-badges/architect-pro-badge.png"    
+  - name: "GCP-DE-P"
+    imagepath: "/img/cert-badges/google-certified-data-engineer.png"
 
 address1: Brisbane
 address2: Australia
