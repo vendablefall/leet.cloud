@@ -41,6 +41,8 @@ certs:
     imagepath: "/img/cert-badges/architect-pro-badge.png"    
   - name: "GCP-DE-P"
     imagepath: "/img/cert-badges/google-certified-data-engineer.png"
+  - name: "GCP-A-P"
+    imagepath: "/img/cert-badges/google-certified-architect.png"
 
 address1: Brisbane
 address2: Australia
