@@ -16,11 +16,11 @@ portfoliofadecolor: "#189cd7"
 
 blogheading: "My Blogs"
 blogimg1: "/img/portfolio/cloud-portfolio2.png"
-blogimg2: "/img/portfolio/LittleKiwiBus_Logo_scaled.png"
+blogimg2: "/img/portfolio/LittleKiwiBus_Logo_blue.png"
 
 projectheading: "My Projects"
 projectimg1: "/img/portfolio/puppie-900-650.png"
-# projectimg2: "/img/portfolio/bridgedoctor.png"
+projectimg2: "/img/portfolio/BridgeDoctor.png"
 
 aboutcolumn1: "With over 8 years industry experience, Alex is a passionate automation and public cloud expert who brings innovative and creative solutions to highly technical problems."
 aboutcolumn2: "At the same time Alex and his partner Bridget are planning on converting a 1979 Ford R1114 bus into their dream tiny house/house-bus. Follow their journey below!"
