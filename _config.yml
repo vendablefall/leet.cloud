@@ -9,7 +9,8 @@ dropdowncolor: "#11866f"
 
 headertitle: "Alex Simpson"
 title: Alex Simpson
-blurb: "AWS cloud consultant, serverless fanatic and housebus enthusiast!"
+# blurb: "AWS cloud consultant, serverless fanatic and housebus enthusiast!"
+blurb: "Serverless fan and housebus enthusiast!"
 CV: "Alex-simpson-CV.pdf"
 portfoliofadecolor: "#189cd7" 
 #these images should be 900x650px
@@ -22,8 +23,9 @@ projectheading: "My Projects"
 projectimg1: "/img/portfolio/parvoAlert_logo_scaled.png"
 projectimg2: "/img/portfolio/BridgeDoctor.png"
 
-aboutcolumn1: "With over 8 years industry experience, Alex is a passionate automation and public cloud expert who brings innovative and creative solutions to highly technical problems."
-aboutcolumn2: "At the same time Alex and his partner Bridget are planning on converting a 1979 Ford R1114 bus into their dream tiny house/house-bus. Follow their journey below!"
+# aboutcolumn1: "With over 8 years industry experience, Alex is a passionate automation and public cloud expert who brings innovative and creative solutions to highly technical problems."
+aboutcolumn1: "Due to COVID 19 leet.cloud is no longer offering consulting services."
+aboutcolumn2: "Alex and his partner Bridget are planning on converting a 1979 Ford R1114 bus into their dream tiny house/house-bus. Follow their journey below!"
 certs:
   - name: "VCP6-DCV"
     imagepath: "/img/cert-badges/Telerik.Web.UI.WebResource.png"
